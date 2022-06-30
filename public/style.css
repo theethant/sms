@@ -73,7 +73,7 @@ input[type=text]:focus {
 }
 
 footer {
-    height: 10px;
+    /* height: 10px; */
     width: 100%;
     margin-top: 60px;
     background: #00c9b7;
